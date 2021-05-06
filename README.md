@@ -5,7 +5,7 @@
 ### Tu peux me suivre sur:
 
 <a href="https://www.linkedin.com/in/oliviagoguillon">
-  <img align="left" alt="GOGUILLON Olivia" width="32" src="" />
+  <img align="left" alt="GOGUILLON Olivia" width="32" src="https://github.com/oliviagog/oliviagog/blob/main/LinkedIn.png" />
 </a>
 
 
