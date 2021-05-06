@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Cover](https://github.com/oliviagog/oliviagog/blob/main/github.jpg)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=oliviagog)
