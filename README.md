@@ -1,6 +1,9 @@
 ### Hello, je suis Olivia GOGUILLON 👋
-
+### Je suis étudiante en alternance chez Orange en tant que développeuse.
 <hr/>
+
+### Tu peux me suivre sur:
+
 
 <!--
 **oliviagog/oliviagog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
