@@ -1,5 +1,7 @@
 ### Hello, je suis Olivia GOGUILLON 👋
 
+</hr>
+
 <!--
 **oliviagog/oliviagog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
